@@ -1,1 +1,1 @@
-# Diabetic Retinopath Prediction Phase 1 Repo
+# Diabetic Retinopathy Prediction Phase 1 Repo
