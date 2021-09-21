@@ -1,0 +1,3 @@
+https://www.nature.com/articles/s41746-020-0247-1
+https://towardsdatascience.com/image-feature-extraction-traditional-and-deep-learning-techniques-ccc059195d04
+https://www.tensorflow.org/tutorials/images/transfer_learning
