@@ -1,0 +1,9 @@
+https://biomedpharmajournal.org/vol10no2/diabetic-retinal-fundus-images-preprocessing-and-feature-extraction-for-early-detection-of-diabetic-retinopathy/
+
+https://www.geeksforgeeks.org/cnn-image-data-pre-processing-with-generators/
+
+https://www.tensorflow.org/tutorials/load_data/images
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6475101/
+
+https://www.analyticsvidhya.com/blog/2021/06/image-processing-using-cnn-a-beginners-guide/
