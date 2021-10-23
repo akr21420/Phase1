@@ -7,3 +7,5 @@ https://www.tensorflow.org/tutorials/load_data/images
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6475101/
 
 https://www.analyticsvidhya.com/blog/2021/06/image-processing-using-cnn-a-beginners-guide/
+
+https://www.researchgate.net/publication/232630688_Automated_feature_extraction_for_early_detection_of_diabetic_retinopathy_in_fundus_images

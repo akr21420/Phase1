@@ -1,3 +1,7 @@
 https://js.tensorflow.org/api/latest/
+
 https://medium.com/swlh/how-to-upload-image-using-multer-in-node-js-f3aeffb90657
+
 https://towardsdatascience.com/tensorflow-image-recognition-tutorial-using-serverless-architecture-node-js-69eb1a3ce110
+
+https://www.researchgate.net/publication/282815125_A_Web-based_Platform_for_Automated_Diabetic_Retinopathy_Screening
